@@ -1,0 +1,142 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+
+
+
+body{
+	
+	background-color:#EEE;
+	font-family: 'Noto Serif', serif;
+	
+}
+
+
+.header-contact{ float:right; padding:30px;
+	
+	
+	
+}
+
+.header-contact a{ text-decoration:none; color:teal; 
+	                 font-weight: bold;
+	
+}
+
+.header-contact a:hover{ text-decoration:underline; color:tomato;
+	
+}
+
+.div-clear{
+	clear:both;
+}
+hr{ border:solid black 3px; width:100%; margin:20px auto; border-bottom:none;
+	
+}
+
+.personal{	font-family: 'Noto Serif', serif;
+	
+	
+	
+}
+.container{
+	max-width:1000px;
+	background-color: #E4F9F5;
+	MARGIN: 0 auto;
+	padding:20px;
+	
+}
+
+
+
+header{
+	
+	
+	
+	
+}
+
+ .tut{ width:100px;
+       height:120px;
+	    border:3px solid white;
+	border-radius:50%;
+	float:left;
+}
+
+.header-bio{ float:left;
+                 padding:30px;
+	
+	
+	
+}
+
+h1,h2,h3,h4,h5,h6 {
+	
+	color: #11999e;
+}
+
+
+#customers {
+  font-family: font-family: 'Noto Serif', serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers td{ text-align:center; }
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: CENTER;
+  background-color:#11999e;
+color: white;}
+
+.ex{
+	
+	margin-left:35px;
+}
+
+.res{margin-left:35px;
+	
+}
+
+.last{
+	 font-family:'Noto Serif', serif;
+	display:inline;
+	
+}
+
+.bes {text-decoration:none;color:black; 
+	
+	
+}
+	
+	
+.foo{background-color:black; text-align:center;padding:10px;
+	
+	
+}
+
+.foo a {color:white; text-decoration:none; margin:20px;
+
+
+}
+
+.foo a:hover{ text-decoration:underline;}
+
+
+.foo p {color:white;  margin-top:20px;
+
+
+}	
